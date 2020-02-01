@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noorul Ameen K M",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
